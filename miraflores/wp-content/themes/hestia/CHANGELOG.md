@@ -1,3 +1,9 @@
+##### [Version 3.0.6](https://github.com/Codeinwp/hestia-pro/compare/v3.0.5...v3.0.6) (2020-11-03)
+
+- [Fix] Customizer not accessible when Sendinblue plugin was installed
+- [Fix] Make logo option translatable with Polylang
+- [Fix] Elementor font-size inheritance from Customizer
+
 ##### [Version 3.0.5](https://github.com/Codeinwp/hestia-pro/compare/v3.0.4...v3.0.5) (2020-09-29)
 
 - [Fix] Responsive slider controls in Customizer
